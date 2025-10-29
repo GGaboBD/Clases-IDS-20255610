@@ -11,7 +11,8 @@ comparacion2 = year < nineth #Creo yo que no ##False es 0
 comparacion3 = comparacion1 +10
 comparacion4 = comparacion2 +10
 
-"""
+#########
+
 print(grad)
 print(nineth)
 print(salary)
@@ -20,7 +21,9 @@ print(comparacion1)
 print(comparacion2)
 print(comparacion3)
 print(comparacion4)
-""" #Le agrego estos 3 comillas para comentar todo el bloque, lo usaria mas que todo para recordar funciones sin que me afecte al programa en si.
+
+#Le agrego estos 3 comillas para comentar todo el bloque, lo usaria mas que todo para recordar funciones sin que me afecte al programa en si.
+
 pi = 3.14159
 print(pi)
 pi_int = int(pi) #Convierte el numero decimal a entero, pero no redondea, solo quita la parte decimal.
